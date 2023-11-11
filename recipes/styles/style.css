@@ -4,7 +4,26 @@
 /* 30%-#85BDA6 */
 /* 10%-#3E885B */
 
+
+body {
+    background-color: #C0D7BB;
+}
+
 .heading {
     font-family: "Oswald", sans-serif;
 }
+
+.heading.one {
+    background-color: #3E885B;
+    width: 280px;
+    height: auto;
+}
+
+.heading.two,
+.heading.three,
+.heading.four {
+    background-color: #85BDA6;
+}
+
+
 
