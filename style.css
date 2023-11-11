@@ -12,5 +12,8 @@ body {
     background-color: #C0D7BB;
 }
 
-
+ul li a {
+    font-size: 17px;
+    color: #3E885B;
+}
 
