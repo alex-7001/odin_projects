@@ -46,16 +46,32 @@ div.description{
 }
 
 div.heading-two {
+    margin: 10px auto;
+}
+
+div.heading-two,
+div.heading-three{
     background-color: #85BDA6;
     width: 120px;
     height: auto;
     text-align: center;
-    margin: 0px auto;
     
 }
 
+
+
 div.paragraph {
     text-align: center;
+}
+
+div.ingredients {
+    width: 200px;
+    margin: 10px;
+    
+}
+
+div.heading-three {
+    margin-bottom: 10px;
 }
 
 /* .heading.two,
