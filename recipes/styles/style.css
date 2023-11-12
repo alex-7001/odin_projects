@@ -37,6 +37,18 @@ img.image {
     background-color: #3E885B;
 }
 
+div.description{
+    margin: 10px;
+}
+
+div.heading-two {
+    background-color: #85BDA6;
+    width: 120px;
+    height: auto;
+    text-align: center;
+    
+}
+
 /* .heading.two,
 .heading.three,
 .heading.four {
