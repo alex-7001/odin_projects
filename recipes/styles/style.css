@@ -50,11 +50,13 @@ div.heading-two {
 }
 
 div.heading-two,
-div.heading-three{
+div.heading-three,
+div.heading-four{
     background-color: #85BDA6;
-    width: 120px;
+    width: fit-content;
     height: auto;
     text-align: center;
+    padding: 0px 10px;
     
 }
 
