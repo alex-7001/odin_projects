@@ -38,7 +38,11 @@ img.image {
 }
 
 div.description{
-    margin: 10px;
+    width: 500px;
+    height: auto;
+    box-sizing: border-box;
+    margin: 20px auto;
+
 }
 
 div.heading-two {
@@ -46,7 +50,12 @@ div.heading-two {
     width: 120px;
     height: auto;
     text-align: center;
+    margin: 0px auto;
     
+}
+
+div.paragraph {
+    text-align: center;
 }
 
 /* .heading.two,
