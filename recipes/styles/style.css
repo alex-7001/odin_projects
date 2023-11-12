@@ -4,6 +4,11 @@
 /* 30%-#85BDA6 */
 /* 10%-#3E885B */
 
+* {
+    margin: 0px;
+    border: 0px;
+}
+
 
 body {
     background-color: #C0D7BB;
