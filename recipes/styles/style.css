@@ -28,7 +28,14 @@ body {
     font-size: 30px;
 }
 
-
+img.image {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 0px auto;
+    padding: 20px 40px;
+    background-color: #85BDA6;
+}
 
 /* .heading.two,
 .heading.three,
