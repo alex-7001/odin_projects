@@ -18,11 +18,21 @@ body {
     font-family: "Oswald", sans-serif;
 }
 
-.heading.one {
+.heading-one.div {
+    text-align: center;
+    width: 550px;
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0px auto;
+    font-size: 30px;
+}
+
+/* .heading.one {
     background-color: #3E885B;
     width: 280px;
     height: auto;
-}
+} */
 
 .heading.two,
 .heading.three,
