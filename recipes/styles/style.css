@@ -66,13 +66,15 @@ div.paragraph {
     text-align: center;
 }
 
-div.ingredients {
-    width: 200px;
+div.ingredients,
+div.steps{
+    width: fit-content;
     margin: 10px;
     
 }
 
-div.heading-three {
+div.heading-three,
+div.heading-four {
     margin-bottom: 10px;
 }
 
